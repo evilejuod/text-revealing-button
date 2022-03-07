@@ -1,2 +1,2 @@
 ### text-revealing-button
-[Live demo](https://github.com/evilejuod/text-revealing-button/blob/main/index.html)
+[Live demo](https://evilejuod.github.io/text-revealing-button/)
