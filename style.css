@@ -1,0 +1,32 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    background-color: darkcyan;
+
+}
+.btn{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 1rem;
+    padding: 0.75rem 1.7rem;
+    text-transform: uppercase;
+    background: none;
+    color: hotpink;
+    font-weight: bold;
+    border: 2px solid hotpink;
+    border-radius: 3px;
+    transition: all 200ms;
+
+}
+.btn:hover{
+    border: none;
+    background-color: hotpink;
+    color: darkcyan;
+    font-size: 1.2rem;
+}
